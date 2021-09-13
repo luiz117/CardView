@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CardView</string>
+    <string name="Author">Author</string>
+    <string name="When">Right now</string>
+    <string name="post">#TBT viagem</string>
+    <string name="txtLike">Like</string>
+    <string name="txtComment">Comment</string>
+    <string name="imgpost">Postagem imagem</string>
+    <string name="Likebtn">Like Button</string>
+    <string name="Commentbtn">Comment Button</string>
+</resources>
